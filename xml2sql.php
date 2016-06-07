@@ -11,7 +11,7 @@
     
     if ($artists_xml != ""){
         $artist = new Artists_Parser($dbhost, $dbname, $username, $password);
-        //$artist->parse($artists_xml);
+        $artist->parse($artists_xml);
     }
     
     if ($level_xml != ""){
