@@ -8,7 +8,7 @@ last 4 xml to mysql
 2. Edit config.php
     for databse
 
-      $dbhost = "your dbhost";
+      $dbhost = "your dbhost";<br>
       $dbname = "your dbname";
       $username = "username";
       $password = "password";
