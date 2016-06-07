@@ -1,0 +1,150 @@
+<artists>
+
+<artist>
+	<images>
+		<image width="600" uri150="" type="secondary" uri="" height="450"/>
+	</images>
+
+	<id>1</id>
+
+	<name>The Persuader</name>
+
+	<realname>Jesper DahlbÃ¤ck</realname>
+
+	<profile></profile>
+
+	<data_quality>Correct</data_quality>
+
+	<namevariations>
+		<name>Persuader</name>
+		<name>The Presuader</name>
+	</namevariations>
+
+	<aliases>
+		<name>Dick Track</name>
+		<name>Faxid</name>
+		<name>Groove Machine</name>
+		<name>Janne Me' Amazonen</name>
+		<name>Jesper DahlbÃ¤ck</name>
+		<name>Lenk</name>
+		<name>The Pinguin Man</name>
+	</aliases>
+</artist>
+
+<artist>
+	<id>2</id>
+
+	<name>Mr. James Barth &amp; A.D.</name>
+
+	<realname>Cari Lekebusch &amp; Alexi Delano</realname>
+
+	<profile></profile>
+
+	<data_quality>Correct</data_quality>
+
+	<namevariations>
+		<name>Mr Barth &amp; A.D.</name>
+		<name>MR JAMES BARTH &amp; A. D.</name>
+		<name>Mr. Barth &amp; A.D.</name>
+		<name>Mr. James Barth &amp; A. D.</name>
+	</namevariations>
+
+	<aliases>
+		<name>ADCL</name>
+		<name>Alexi Delano &amp; Cari Lekebusch</name>
+		<name>Crushed Insect &amp; The Sick Puppy</name>
+		<name>Puente Latino</name>
+		<name>Yakari &amp; Delano</name>
+	</aliases>
+
+	<members>
+		<id>26</id>
+		<name>Alexi Delano</name>
+		<id>27</id>
+		<name>Cari Lekebusch</name>
+	</members>
+</artist>
+
+<artist>
+
+	<images>
+		<image width="500" uri150="" type="primary" uri="" height="630"/>
+		<image width="219" uri150="" type="secondary" uri="" height="288"/>
+		<image width="380" uri150="" type="secondary" uri="" height="280"/>
+		<image width="399" uri150="" type="secondary" uri="" height="370"/>
+		<image width="200" uri150="" type="secondary" uri="" height="199"/>
+		<image width="550" uri150="" type="secondary" uri="" height="436"/>
+		<image width="600" uri150="" type="secondary" uri="" height="661"/>
+		<image width="461" uri150="" type="secondary" uri="" height="270"/>
+	</images>
+
+	<id>3</id>
+	<name>Josh Wink</name>
+	<realname>Joshua Winkelman</realname>
+
+	<profile>After forming [l=Ovum Recordings] as an independent label in October 1994 with former partner [a=King Britt], Josh recorded the cult classic 'Liquid Summer'. He went on to release singles for a wide variety of revered European labels ranging from Belgium's [l=R &amp; S Records] to England's [l=XL Recordings]. In 1995, Wink became one of the first DJ-producers to translate his hard work into mainstream success when he unleashed a string of classics including 'Don't Laugh'Â¸ 'I'm Ready' and 'Higher State of Consciousness' that topped charts worldwide. More recently he has had massive club hits such as 'How's Your Evening So Far' and 'Superfreak' but he has also gained a lot of attention trough his remixes for [a=FC Kahuna], [a=Paul Oakenfold], [a=Ladytron], [a=Clint Mansell], [a=Sting] and [a=Depeche Mode], among others.</profile>
+
+	<data_quality>Needs Vote</data_quality>
+
+	<urls>
+		<url>http://www.joshwink.com/</url>
+		<url>http://www.ovumrecordings.com/artists/josh-wink/</url>
+		<url>http://www.facebook.com/JoshWinkOfficial</url>
+		<url>http://twitter.com/joshwink1</url>
+		<url>http://instagram.com/joshwink1</url>
+		<url>http://myspace.com/joshwink</url>
+		<url>http://myspace.com/ovumrecordings</url>
+		<url>http://www.discogs.com/user/JoshWink</url>
+		<url>http://www.discogs.com/user/josh_wink</url>
+		<url>http://www.songkick.com/artists/250682-josh-wink</url>
+		<url>http://en.wikipedia.org/wiki/Josh_Wink</url>
+		<url>http://www.whosampled.com/Josh-Wink/</url>
+		<url>https://soundcloud.com/joshwinkofficial</url>
+		<url>http://www.youtube.com/user/JoshWinkVEVO</url>
+		<url>http://www.dailymotion.com/JoshWink-vevo</url>
+	</urls>
+
+	<namevariations>
+		<name>DJ Josh Wink</name>
+		<name>DJ Wink</name>
+		<name>Dosh Wink</name>
+		<name>J Wink</name>
+		<name>J. Wink</name>
+		<name>J. Wink (DJ  Wink)</name>
+		<name>J. Winkelman</name>
+		<name>J. Winkelmann</name>
+		<name>J.Wink</name>
+		<name>J.Winkelman</name>
+		<name>Josh</name>
+		<name>Josh Wink (DJ Wink)</name>
+		<name>Josh Winkelman</name>
+		<name>Josh Winkelmann</name>
+		<name>Josh Winks</name>
+		<name>Josh Winx</name>
+		<name>JW</name>
+		<name>Winc</name>
+		<name>Wink</name>
+		<name>Winks</name>
+		<name>Winx</name>
+		<name>Winxs</name>
+	</namevariations>
+
+	<aliases>
+		<name>Accent (3)</name>
+		<name>Dinky Dog</name>
+		<name>J. Dawg</name>
+		<name>Size 9</name>
+		<name>The Crusher</name>
+	</aliases>
+
+	<groups>
+		<name>Abundance Of Cups</name>
+		<name>E-Culture</name>
+		<name>Jack Jones (4)</name>
+		<name>Just King And Wink</name>
+		<name>The Force (23)</name>
+	</groups>
+
+</artist>
+
+</artists>

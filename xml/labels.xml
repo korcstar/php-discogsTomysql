@@ -1,0 +1,112 @@
+<labels>
+
+	<label>
+		<images>
+			<image width="132" uri150="" type="primary" uri="" height="24"/>
+			<image width="587" uri150="" type="secondary" uri="" height="126"/>
+			<image width="600" uri150="" type="secondary" uri="" height="196"/>
+			<image width="275" uri150="" type="secondary" uri="" height="121"/>
+			<image width="382" uri150="" type="secondary" uri="" height="720"/>
+			<image width="500" uri150="" type="secondary" uri="" height="398"/>
+			<image width="600" uri150="" type="secondary" uri="" height="189"/>
+		</images>
+
+		<id>1</id>
+
+		<name>Planet E</name>
+
+		<contactinfo>
+			Planet E Communications&#13;
+			P.O. Box 27218&#13;
+			Detroit, Michigan, MI 48227&#13;
+			USA&#13;
+			&#13;
+			Phone: +1 313 874 8729&#13;
+			Fax: +1 313 874 8732&#13;
+			Email: info@Planet-e.net
+		</contactinfo>
+
+		<profile>
+			[a=Carl Craig]'s classic techno label founded in 1991.&#13;
+			&#13;
+			On at least 1 release, Planet E is listed as publisher.
+		</profile>
+
+		<data_quality>Correct</data_quality>
+
+		<urls>
+			<url>http://planet-e.net/</url>
+			<url>http://planetecommunications.bandcamp.com/</url>
+			<url>http://www.discogs.com/user/planetedetroit</url>
+			<url>https://www.facebook.com/planetedetroit</url>
+			<url>https://www.flickr.com/photos/planetedetroit</url>
+			<url>https://plus.google.com/100841702106447505236</url>
+			<url>https://myspace.com/planetecom</url>
+			<url>https://myspace.com/planetedetroit</url>
+			<url>https://soundcloud.com/planetedetroit</url>
+			<url>https://twitter.com/planetedetroit</url>
+			<url>https://vimeo.com/user1265384</url>
+			<url>https://www.youtube.com/user/planetedetroit</url>
+			<url>https://en.wikipedia.org/wiki/Planet_E_Communications</url>
+		</urls>
+
+		<sublabels>
+			<label>Antidote (4)</label>
+			<label>Community Projects</label>
+			<label>Guilty Pleasures</label>
+			<label>I Ner Zon Sounds</label>
+			<label>Planet E Communications, Inc.</label>
+			<label>TWPENTY</label>
+		</sublabels>
+	</label>
+
+	<label>
+		<id>2</id>
+
+		<name>Earthtones Recordings</name>
+
+		<contactinfo>
+			Seasons Recordings&#13;
+			2236 Pacific Avenue&#13;
+			Suite D&#13;
+			Costa Mesa, CA  92627&#13;
+			&#13;
+			tel: +1.949.574.5255&#13;
+			fax: +1.949.574.0255&#13;
+			&#13;
+			email: &lt;a href="mailto:jthinnes@seasonsrecordings.com"&gt;jthinnes@seasonsrecordings.com&lt;/a&gt;
+		</contactinfo>
+
+		<profile>California deep house label founded by Jamie Thinnes. Now defunct and continued as [l=Seasons Recordings].</profile>
+		<data_quality>Correct</data_quality>
+
+		<urls>
+			<url>http://www.seasonsrecordings.com/</url>
+		</urls>
+	</label>
+
+	<label>
+		<images>
+			<image width="600" uri150="" type="primary" uri="" height="337"/>
+		</images>
+		
+		<id>5</id>
+		<name>Svek</name>
+		<contactinfo>
+			Svek office &#13;
+			Stephan Grieder &#13;
+			Fax: +46 (8) 50621292 &#13;
+			   &#13;
+			Address: Stephan Grieder, Lodgatan 2, 114 30 Stockholm, Sweden
+		</contactinfo>
+
+		<parentLabel>Goldhead Music</parentLabel>
+		<data_quality>Correct</data_quality>
+		
+		<sublabels>
+			<label>Birdy</label>
+		</sublabels>
+	</label>
+
+
+</labels>

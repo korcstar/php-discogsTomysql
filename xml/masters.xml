@@ -1,0 +1,122 @@
+<masters>
+
+	<master id="18500">
+		<main_release>155102</main_release>
+
+		<images>
+			<image width="600" uri150="" type="primary" uri="" height="588"/>
+		</images>
+
+		<artists>
+			<artist>
+				<id>212070</id>
+				<name>Samuel L Session</name>
+				<anv>Samuel L</anv>
+				<join></join>
+				<role></role>
+				<tracks></tracks>
+			</artist>
+			<artist>
+				<id>212071</id>
+				<name>Samuel L Session</name>
+				<anv>Samuel L</anv>
+				<join></join>
+				<role></role>
+				<tracks></tracks>
+			</artist>
+		</artists>
+
+		<genres>
+			<genre>Electronic</genre>
+		</genres>
+
+		<styles>
+			<style>Techno</style>
+		</styles>
+
+		<year>2001</year>
+		<title>New Soil</title>
+		<data_quality>Correct</data_quality>
+
+		<videos>
+			<video duration="489" src="http://www.youtube.com/watch?v=f05Ai921itM" embed="true">
+				<title>Samuel L - Velvet</title>
+				<description>Samuel L - Velvet</description>
+			</video>
+			<video duration="348" src="http://www.youtube.com/watch?v=v23rSPG_StA" embed="true">
+				<title>Samuel L - Danses D'Afrique</title>
+				<description>Samuel L - Danses D'Afrique</description>
+			</video>
+			<video duration="288" src="http://www.youtube.com/watch?v=tHo82ha6p40" embed="true">
+				<title>Samuel L - Body N' Soul</title>
+				<description>Samuel L - Body N' Soul</description>
+			</video>
+			<video duration="331" src="http://www.youtube.com/watch?v=KDcqzHca5dk" embed="true">
+				<title>Samuel L - Into The Groove</title>
+				<description>Samuel L - Into The Groove</description>
+			</video>
+			<video duration="334" src="http://www.youtube.com/watch?v=3DIYjJFl8Dk" embed="true">
+				<title>Samuel L - Soul Syndrome</title>
+				<description>Samuel L - Soul Syndrome</description>
+			</video>
+			<video duration="325" src="http://www.youtube.com/watch?v=_o8yZMPqvNg" embed="true">
+				<title>Samuel L - Lush</title>
+				<description>Samuel L - Lush</description>
+			</video>
+			<video duration="346" src="http://www.youtube.com/watch?v=JPwwJSc_-30" embed="true">
+				<title>Samuel L - Velvet ( Direct Me )</title>
+				<description>Samuel L - Velvet ( Direct Me )</description>
+			</video>
+		</videos>
+	</master>
+
+
+	<master id="12225">
+		<main_release>85085</main_release>
+
+		<images>
+			<image width="600" uri150="" type="primary" uri="" height="584"/>
+			<image width="560" uri150="" type="secondary" uri="" height="600"/>
+			<image width="600" uri150="" type="secondary" uri="" height="456"/>
+		</images>
+
+		<artists>
+			<artist>
+				<id>374</id>
+				<name>Lackluster</name>
+				<anv></anv>
+				<join></join>
+				<role></role>
+				<tracks></tracks>
+			</artist>
+		</artists>
+
+		<genres>
+			<genre>Electronic</genre>
+		</genres>
+
+		<styles>
+			<style>Leftfield</style>
+			<style>IDM</style>
+			<style>Downtempo</style>
+			<style>Experimental</style>
+			<style>Ambient</style>
+		</styles>
+
+		<year>2002</year>
+		<title>Wrapping</title>
+		<data_quality>Correct</data_quality>
+
+		<videos>
+			<video duration="343" src="http://www.youtube.com/watch?v=mj78o6gb2wo" embed="true">
+				<title>Lackluster - In Passing</title>
+				<description>Lackluster - In Passing</description>
+			</video>
+			<video duration="210" src="http://www.youtube.com/watch?v=9xgec2QDFbE" embed="true">
+				<title>Lackluster - Gid</title>
+				<description>Lackluster - Gid</description>
+			</video>
+		</videos>
+	</master>
+
+</masters>

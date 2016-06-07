@@ -1,0 +1,466 @@
+<releases>
+
+	<release status="Accepted" id="3">
+		<images>
+			<image width="600" uri150="" type="primary" uri="" height="595"/>
+			<image width="600" uri150="" type="secondary" uri="" height="472"/>
+			<image width="599" uri150="" type="secondary" uri="" height="600"/>
+			<image width="600" uri150="" type="secondary" uri="" height="470"/>
+		</images>
+
+		<artists>
+			<artist>
+				<id>3</id>
+				<name>Josh Wink</name>
+				<anv></anv>
+				<join></join>
+				<role></role>
+				<tracks></tracks>
+			</artist>
+		</artists>
+
+		<title>Profound Sounds Vol. 1</title>
+
+		<labels>
+			<label catno="CK 63628" name="Ruffhouse Records"/>
+		</labels>
+
+		<extraartists>
+			<artist>
+				<id>3</id>
+				<name>Josh Wink</name>
+				<anv></anv>
+				<join></join>
+				<role>DJ Mix</role>
+				<tracks></tracks>
+			</artist>
+		</extraartists>
+
+		<formats>
+			<format text="" name="CD" qty="1">
+				<descriptions>
+					<description>Compilation</description>
+					<description>Mixed</description>
+				</descriptions>
+			</format>
+		</formats>
+
+		<genres>
+			<genre>Electronic</genre>
+		</genres>
+
+		<styles>
+			<style>Techno</style>
+			<style>Tech House</style>
+		</styles>
+
+		<country>US</country>
+
+		<released>1999-07-13</released>
+
+		<notes>
+		1: Track title is given as "D2" (which is the side of record on the vinyl version of i220-010 release). This was also released on CD where this track is listed on 8th position. On both version no titles are given (only writing/producing credits). Both versions of i220-010 can be seen on the master release page [m27265]. Additionally this track contains female vocals that aren't present on original i220-010 release. &#13;
+		4: Credited as J. DahlbÃ¤ck. &#13;
+		5: Track title wrongly given as "Vol. 1". &#13;
+		6: Credited as Gez Varley presents Tony Montana. &#13;
+		12: Track exclusive to Profound Sounds Vol. 1.
+		</notes>
+
+		<master_id>66526</master_id>
+
+		<data_quality>Correct</data_quality>
+
+		<tracklist>
+			<track>
+				<position>1</position>
+				<title>Untitled 8</title>
+				<duration>7:00</duration>
+
+				<artists>
+					<artist>
+						<id>5</id>
+						<name>Heiko Laux</name>
+						<anv></anv>
+						<join>&amp;</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+
+					<artist>
+						<id>4</id>
+						<name>Johannes Heil</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+			</track>
+
+			<track>
+				<position>2</position>
+				<title>Anjua (Sneaky 3)</title>
+				<duration>5:28</duration>
+
+				<artists>
+					<artist>
+						<id>15525</id>
+						<name>Karl Axel Bissler</name>
+						<anv>K.A.B.</anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+			</track>
+
+			<track>
+				<position>3</position>
+				<title>When The Funk Hits The Fan (Mood II Swing When The Dub Hits The Fan)</title>
+				<duration>5:25</duration>
+
+				<artists>
+					<artist>
+						<id>7</id>
+						<name>Sylk 130</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+
+				<extraartists>
+					<artist>
+						<id>8</id>
+						<name>Mood II Swing</name>
+						<anv></anv>
+						<join></join>
+						<role>Remix</role>
+						<tracks></tracks>
+					</artist>
+				</extraartists>
+			</track>
+
+			<track>
+				<position>4</position>
+				<title>What's The Time, Mr. Templar</title>
+				<duration>4:27</duration>
+				
+				<artists>
+					<artist>
+						<id>1</id>
+						<name>The Persuader</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+			</track>
+
+			<track>
+				<position>5</position>
+				<title>Vol. 2</title>
+				<duration>5:36</duration>
+
+				<artists>
+					<artist>
+						<id>267132</id>
+						<name>Care Company (2)</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+			</track>
+
+			<track>
+				<position>6</position>
+				<title>Political Prisoner</title>
+				<duration>3:37</duration>
+
+				<artists>
+					<artist>
+						<id>6981</id>
+						<name>Gez Varley</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+			</track>
+
+			<track>
+				<position>7</position>
+				<title>Pop Kulture</title>
+				<duration>5:03</duration>
+
+				<artists>
+					<artist>
+						<id>11</id>
+						<name>DJ Dozia</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+			</track>
+
+			<track>
+				<position>8</position>
+				<title>K-Mart Shopping (Hi-Fi Mix)</title>
+				<duration>5:42</duration>
+				
+				<artists>
+					<artist>
+						<id>10702</id>
+						<name>Nerio's Dubwork</name>
+						<anv></anv>
+						<join>Meets</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+					<artist>
+						<id>233190</id>
+						<name>Kathy Lee</name>
+						<anv></anv>
+						<join>,</join>
+						<role></role>
+						<tracks></tracks>
+					</artist>
+				</artists>
+				
+				<extraartists>
+					<artist>
+						<id>23</id>
+						<name>Alex Hi-Fi</name>
+						<anv></anv>
+						<join></join>
+						<role>Remix</role>
+						<tracks></tracks>
+					</artist>
+				</extraartists>
+			</track>
+
+		</tracklist>
+
+		<identifiers>
+			<identifier type="Barcode" value="074646362822"/>
+		</identifiers>
+
+		<companies>
+			<company>
+				<id>93330</id>
+				<name>Columbia Records</name>
+				<catno></catno>
+				<entity_type>10</entity_type>
+				<entity_type_name>Manufactured By</entity_type_name>
+				<resource_url>http://api.discogs.com/labels/93330</resource_url>
+			</company>
+
+			<company>
+				<id>93330</id>
+				<name>Columbia Records</name>
+				<catno></catno>
+				<entity_type>9</entity_type>
+				<entity_type_name>Distributed By</entity_type_name>
+				<resource_url>http://api.discogs.com/labels/93330</resource_url>
+			</company>
+		</companies>
+
+	</release>
+
+	<release status="Accepted" id="5">
+		<images>
+			<image width="598" uri150="" type="primary" uri="" height="600"/>
+			<image width="600" uri150="" type="secondary" uri="" height="294"/>
+			<image width="600" uri150="" type="secondary" uri="" height="462"/>
+			<image width="596" uri150="" type="secondary" uri="" height="600"/>
+		</images>
+		
+		<artists>
+			<artist>
+				<id>22</id>
+				<name>Datacide</name>
+				<anv></anv>
+				<join>,</join>
+				<role></role>
+				<tracks></tracks>
+			</artist>
+		</artists>
+		
+		<title>Flowerhead</title>
+		
+		<labels>
+			<label catno="RI 026" name="Rather Interesting"/>
+			<label catno="RI026" name="Rather Interesting"/>
+		</labels>
+		
+		<extraartists>
+			<artist>
+				<id>539207</id>
+				<name>Linger Decoree</name>
+				<anv></anv>
+				<join></join>
+				<role>Cover, Design [Logo Designs]</role>
+				<tracks></tracks>
+			</artist>
+			<artist>
+				<id>25</id>
+				<name>Tetsu Inoue</name>
+				<anv></anv>
+				<join></join>
+				<role>Performer [Datacide Are]</role>
+				<tracks></tracks>
+			</artist>
+			<artist>
+				<id>519207</id>
+				<name>Uwe Schmidt</name>
+				<anv></anv>
+				<join></join>
+				<role>Performer [Datacide Are]</role>
+				<tracks></tracks>
+			</artist>
+			<artist>
+				<id>22</id>
+				<name>Datacide</name>
+				<anv></anv>
+				<join></join>
+				<role>Producer</role>
+				<tracks></tracks>
+			</artist>
+		</extraartists>
+		
+		<formats>
+			<format text="" name="CD" qty="1">
+				<descriptions>
+					<description>Album</description>
+					<description>Limited Edition</description>
+				</descriptions>
+			</format>
+		</formats>
+		
+		<genres>
+			<genre>Electronic</genre>
+		</genres>
+		
+		<styles>
+			<style>Abstract</style>
+			<style>Ambient</style>
+		</styles>
+		
+		<country>Germany</country>
+		<released>1995</released>
+		<notes>
+			Rather Interesting presents: Datacide "Flowerhead"&#13;
+			&#13;
+			'Flowerhead' produced at SEL I/S/C.&#13;
+			Flowers selected with kind support from &#13;
+			Arielle and her collection of biological&#13;
+			kn [...] sychoptic' kiss.&#13;
+			&#13;
+			Many thanks to Ingrid, Conny, Peter Kuhlmann,&#13;
+			Mr. Kite and Billy Shears.&#13;
+			This is a stereo recording &#13;
+			a splendid time is guaranteed for all.&#13;
+			&#13;
+			Limitation: 1000&#13;
+			&#13;
+			Catalog numbers:&#13;
+			RI 026 (spine and insert)&#13;
+			RI026 (label)&#13;
+		</notes>
+
+		<master_id>169944</master_id>
+		<data_quality>Needs Vote</data_quality>
+
+		<tracklist>
+			<track>
+				<position>1</position>
+				<title>Flashback Signal</title>
+				<duration>15:54</duration>
+				
+				<extraartists>
+					<artist>
+						<id>415403</id>
+						<name>Ingrid Baier</name>
+						<anv>Ingrid</anv>
+						<join></join>
+						<role>Voice</role>
+						<tracks></tracks>
+					</artist>
+				</extraartists>
+			</track>
+			
+			<track><position>2</position><title>Flowerhead</title><duration>9:33</duration></track>
+			<track><position>3</position><title>Deep Chair</title><duration>14:05</duration></track>
+			<track><position>4</position><title>So Much Light</title><duration>12:02</duration></track>
+			<track><position>5</position><title>Sixties Out Of Tune</title><duration>13:05</duration></track>
+		</tracklist>
+		
+		<identifiers>
+			<identifier type="Matrix / Runout" value="CD PLANT MFG RI 026 CDM01"/>
+		</identifiers>
+		
+		<videos>
+			<video duration="574" src="http://www.youtube.com/watch?v=pG3xsGuJ_AQ" embed="true">
+				<title>DATacide - Flowerhead - Tetsu Inoue &amp; Atom Heart - Rather Interesting - Fax - Ambient</title>
+				<description>DATacide - Flowerhead - Tetsu Inoue &amp; Atom Heart - Rather Interesting - Fax - Ambient</description>
+			</video>
+			
+			<video duration="849" src="http://www.youtube.com/watch?v=wWL0wTc_d4I" embed="true">
+				<title>Datacide - Deep Chair</title>
+				<description>Datacide - Deep Chair</description>
+			</video>
+			
+			<video duration="723" src="http://www.youtube.com/watch?v=HDWt0kVZPnM" embed="true">
+				<title>Datacide - So Much Light (Ambient 1995)</title>
+				<description>Datacide - So Much Light (Ambient 1995)</description>
+			</video>
+			
+			<video duration="789" src="http://www.youtube.com/watch?v=S_iUmQTGXyo" embed="true">
+				<title>Datacide - Sixties Out Of Tune</title>
+				<description>Datacide - Sixties Out Of Tune</description>
+			</video>
+			
+			<video duration="956" src="http://www.youtube.com/watch?v=GlJqdwk0XIg" embed="true">
+				<title>Datacide - Flashback Signal (Ambient 1995)</title>
+				<description>Datacide - Flashback Signal (Ambient 1995)</description>
+			</video>
+		</videos>
+		
+		<companies>
+			<company>
+				<id>403521</id>
+				<name>Del Haze Entertainment</name>
+				<catno></catno>
+				<entity_type>8</entity_type>
+				<entity_type_name>Marketed By</entity_type_name>
+				<resource_url>http://api.discogs.com/labels/403521</resource_url>
+			</company>
+
+			<company>
+				<id>291931</id>
+				<name>CD Plant MFG</name>
+				<catno></catno>
+				<entity_type>10</entity_type>
+				<entity_type_name>Manufactured By</entity_type_name>
+				<resource_url>http://api.discogs.com/labels/291931</resource_url>
+			</company>
+			
+			<company>
+				<id>265233</id>
+				<name>Sel i/s/c</name>
+				<catno></catno>
+				<entity_type>26</entity_type>
+				<entity_type_name>Produced At</entity_type_name>
+				<resource_url>http://api.discogs.com/labels/265233</resource_url>
+			</company>
+		</companies>
+	</release>
+
+</releases>
