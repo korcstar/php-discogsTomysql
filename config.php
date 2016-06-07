@@ -4,9 +4,9 @@
  * database config
  */
 $dbhost = "localhost";
-$dbname = "discogs";
-$username = "root";
-$password = "123";
+$dbname = "dbname";
+$username = "username";
+$password = "password";
 
 /**
  * xml file path
