@@ -1,4 +1,4 @@
-# discogs-xmlToMysql
+# PHP-DiscogsToMysql
 Discogs xml to mysql php script
 
 http://data.discogs.com/
