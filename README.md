@@ -1,10 +1,10 @@
 # PHP-DiscogsToMysql
-Discogs xml to mysql php script
+php script to convert discogs xml to mysql
 
 http://data.discogs.com/
 last 4 xml to mysql
 
-1. Download script
+1. Download or Clone
 2. Edit config.php<br>
     for databse
 
