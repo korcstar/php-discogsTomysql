@@ -1,0 +1,45 @@
+[
+    {
+        "name": "prewk/xml-string-streamer",
+        "version": "0.7.2",
+        "version_normalized": "0.7.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/prewk/xml-string-streamer.git",
+            "reference": "0b8bc138af1d5fc1182e5d1b283165511ae99ec7"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/prewk/xml-string-streamer/zipball/0b8bc138af1d5fc1182e5d1b283165511ae99ec7",
+            "reference": "0b8bc138af1d5fc1182e5d1b283165511ae99ec7",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "mockery/mockery": "dev-master",
+            "prewk/xml-faker": "0.0.2"
+        },
+        "time": "2015-11-04 19:26:24",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Prewk\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "prewk",
+                "email": "oskar.thornblad@gmail.com"
+            }
+        ],
+        "description": "Stream large XML files with low memory consumption",
+        "homepage": "https://github.com/prewk/xml-string-streamer"
+    }
+]
